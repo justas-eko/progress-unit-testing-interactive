@@ -1,0 +1,11 @@
+.settings/
+indapp/.settings/
+.project
+.propath
+.dbconnection
+.openedge.json
+*.r
+.netrc
+.openedge*
+*.xref
+results.xml
