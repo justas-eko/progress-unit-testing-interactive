@@ -18,6 +18,10 @@ $ ./launch_unit.shStarting tests...
    Seems there are failing tests...
 Finished! Check 'results.xml'
 ```
+6. Check **progress-unit-testing-interactive/results.xml**
+   If everything is fine, you should see a word "Success" in your results file. The only difference from the image will be, that your results.xml file will not be formatted and will have all it's text in one line.
+![Successful test](https://i.imgur.com/PMgxOCv.png)
+7. You are ready for interactive session. Lets write some unit tests!
 ---
 Also, **progress-unit-testing/results.xml** will be generated that will show the outcome of each test.  
 There's one drawback with this approach: XML isn't formatted right.  
