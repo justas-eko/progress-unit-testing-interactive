@@ -9,7 +9,7 @@ git clone https://github.com/justas-eko/progress-unit-testing-interactive.git
 2. You might need to change **DLC** variable value:  
   Change **DLC** variable value to your Progress home directory in **progress-unit-testing-interactive/config/propath.ini**  
   Depending on your environment setup, you might need to change prowin path in **progress-unit-testing-interactive/launch_unit.bat**  
-3. Change the connection values to your sports2000 database of choice in **progress-unit-testing-interactive/config/propath.ini**  
+3. Change the connection values to your sports2000 database of choice in **progress-unit-testing-interactive/config/sports2000.pf**  
    **Sugested database is described in the letter sent before**
 4. To run script **progress-unit-testing-interactive/launch_unit.bat** you can simply double clikc on it
 5. If everything went well you will see:
